@@ -1,0 +1,5 @@
+/home/xmy/PycharmProjects/test/paddle/proj3_recognizeMyself/test/yjl.jpg 0
+/home/xmy/PycharmProjects/test/paddle/proj3_recognizeMyself/test/kebi.jpg 1
+/home/xmy/PycharmProjects/test/paddle/proj3_recognizeMyself/test/yao.jpg 2
+/home/xmy/PycharmProjects/test/paddle/proj3_recognizeMyself/test/zms.jpg 3
+/home/xmy/PycharmProjects/test/paddle/proj3_recognizeMyself/test/kuli.jpg 4
